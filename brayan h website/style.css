@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+.nav-logo {
+    width: 40px;
+}
+#navbarNav{
+    display:flex;
+    justify-content:end;
+}
+
+
+button{
+	
+	size: 100px;
+	font-size: 50px;
+	background-color: black;
+	color: white;
+	padding: 30px 40px;
+	width: 25%;
+	
+}
+.calander{
+	color:black
+}
+
+.main-container{
+    background-color:red;
+}
+
+
+.intro-video-section{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:74.375vw;
+    height:62.5vh;
+    background-color:purple;
+}
+
+.video{
+    width:20vw;
+    height:40vh;
+    border:2px black solid;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10vh;
+}
+
+
+.intro-video-section{
+	display: flex;
+	justify-content:center;
+    width:74.375vw;
+    background-color:blue;
+    margin-left:auto;
+    margin-right:auto;
+    height:62.5vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-image: url("IMG/school buildi.png");
+
